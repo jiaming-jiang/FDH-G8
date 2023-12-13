@@ -1,0 +1,62 @@
+[
+    {
+        "place": "Private house in the Jewish quarter",
+        "interaction": "stayed",
+        "description": "Stayed in a private house situated in the Jewish quarter, featuring a large stone-paved court and various rooms."
+    },
+    {
+        "place": "Hackmè or dispensary",
+        "interaction": "visited",
+        "description": "Visited the hackmè or dispensary, which opens on one side of the square court of the house."
+    },
+    {
+        "place": "House's kitchen",
+        "interaction": "observed",
+        "description": "Observed the unique kitchen of the house, featuring Arab copper kettles and a stone fireplace."
+    },
+    {
+        "place": "House's upper court",
+        "interaction": "visited",
+        "description": "Visited the small upper court of the house, leading to a chamber and dining room."
+    },
+    {
+        "place": "Housetop terrace",
+        "interaction": "visited",
+        "description": "Visited the housetop terrace of the house, enclosed by a five-foot-high wall."
+    },
+    {
+        "place": "Valley of the Tyropoon",
+        "interaction": "observed",
+        "description": "Observed the Valley of the Tyropoon from a high vantage point in the house."
+    },
+    {
+        "place": "Mount Olivet",
+        "interaction": "observed",
+        "description": "Observed Mount Olivet from the house, located opposite to it."
+    },
+    {
+        "place": "Temple enclosure",
+        "interaction": "observed",
+        "description": "Observed the Temple enclosure from a distance, visible from the house."
+    },
+    {
+        "place": "Mugrabin quarter",
+        "interaction": "observed",
+        "description": "Observed the Mugrabin quarter in the valley, visible from the house."
+    },
+    {
+        "place": "Mount Zion",
+        "interaction": "observed",
+        "description": "Observed Mount Zion, noted for its picturesque and dilapidated buildings."
+    },
+    {
+        "place": "Council Chamber or Sanhedrim",
+        "interaction": "visited",
+        "description": "Visited the Council Chamber, or Sanhedrim, identified as the Mechemeh or Congressional Hall of Jerusalem."
+    },
+    {
+        "place": "Cheesemongers' Valley",
+        "interaction": "observed",
+        "description": "Observed the Cheesemongers' Valley, also known as the Tyropoon Valley, from a distance."
+    }
+]

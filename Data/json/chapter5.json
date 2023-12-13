@@ -1,0 +1,32 @@
+[
+    {
+        "place": "Gethsemane",
+        "interaction": "visited",
+        "description": "Visited the garden of Gethsemane, now a flower garden with ancient olive trees."
+    },
+    {
+        "place": "Mount Olivet",
+        "interaction": "visited",
+        "description": "Ascended Mount Olivet, observing the Church of Ascension and the surrounding village."
+    },
+    {
+        "place": "Church of Ascension",
+        "interaction": "visited",
+        "description": "Visited the Church of Ascension, observing the foot and staff imprint in solid rock."
+    },
+    {
+        "place": "Bethany",
+        "interaction": "visited",
+        "description": "Traveled to Bethany, visiting the cave identified as the tomb of Lazarus."
+    },
+    {
+        "place": "Chapel of the Prediction",
+        "interaction": "observed",
+        "description": "Observed the Chapel of the Prediction, built on the rock where Christ lamented over Jerusalem."
+    },
+    {
+        "place": "Jerusalem",
+        "interaction": "visited",
+        "description": "Visited Jerusalem, reflecting on its history and current state."
+    }
+]

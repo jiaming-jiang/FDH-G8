@@ -1,0 +1,22 @@
+[
+    {
+        "place": "Bazaar",
+        "interaction": "passed",
+        "description": "Escaped the noisy bazaar in the city."
+    },
+    {
+        "place": "Home of Turfendah and friends",
+        "interaction": "stayed",
+        "description": "Dinner and preparations for the bath were done at the home of Turfendah and her friends."
+    },
+    {
+        "place": "Bathing Establishment",
+        "interaction": "visited",
+        "description": "Visited one of the finest bathing establishments in the city for an afternoon bath."
+    },
+    {
+        "place": "Dressing-room in Bathing Establishment",
+        "interaction": "stayed",
+        "description": "Used the dressing-room in the bathing establishment for changing and resting."
+    }
+]

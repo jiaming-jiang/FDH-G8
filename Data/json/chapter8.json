@@ -1,0 +1,52 @@
+[
+    {
+        "place": "Road from Jerusalem to Bethlehem",
+        "interaction": "passed",
+        "description": "Passed through the rough and stony road from Jerusalem to Bethlehem, with a mention of the Plain of Rephaim."
+    },
+    {
+        "place": "Bethlehem",
+        "interaction": "visited",
+        "description": "Visited Bethlehem, described as standing on a hill and having a fine appearance from a distance."
+    },
+    {
+        "place": "Church and Monastery covering the Cave of the Nativity",
+        "interaction": "visited",
+        "description": "Visited the Church and Monastery covering the Cave of the Nativity, noted for its imposing appearance and elegant Corinthian pillars."
+    },
+    {
+        "place": "Cave of the Nativity",
+        "interaction": "visited",
+        "description": "Visited the Cave of the Nativity, described as being lighted by lamps and containing a silver star marking the birthplace of Jesus."
+    },
+    {
+        "place": "Schoolroom of Miss Williams",
+        "interaction": "visited",
+        "description": "Visited the schoolroom of Miss Williams, engaged in teaching Arab children."
+    },
+    {
+        "place": "Jerome's Cave",
+        "interaction": "visited",
+        "description": "Visited the site of Jerome's Cave."
+    },
+    {
+        "place": "Joseph's House",
+        "interaction": "visited",
+        "description": "Visited the site reputed to be Joseph's House."
+    },
+    {
+        "place": "The Manger",
+        "interaction": "visited",
+        "description": "Visited the site known as 'The Manger'."
+    },
+    {
+        "place": "Church of St. Helena",
+        "interaction": "stayed",
+        "description": "Stayed at the Church of St. Helena after being expelled from the Church of the Nativity."
+    },
+    {
+        "place": "Grotto of the Nativity",
+        "interaction": "visited",
+        "description": "Visited the Grotto of the Nativity."
+    }
+]
