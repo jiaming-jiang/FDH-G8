@@ -1,0 +1,82 @@
+[
+    {
+        "place": "Beirut",
+        "interaction": "mentioned",
+        "description": "The journey starts from Beirut, setting the beginning of the travel."
+    },
+    {
+        "place": "Roadside khan",
+        "interaction": "stayed",
+        "description": "Stopped for lunch at a roadside khan, experiencing poor shelter in the rain."
+    },
+    {
+        "place": "Nebi-Yunas khan",
+        "interaction": "stayed",
+        "description": "Spent a night at the Nebi-Yunas khan, encountering basic and uncomfortable accommodations."
+    },
+    {
+        "place": "Sidon",
+        "interaction": "visited",
+        "description": "Visited the city of Sidon, observing its decline and ruins."
+    },
+    {
+        "place": "Tyre",
+        "interaction": "visited",
+        "description": "Reached Tyre, observing the city's desolation and fishermen's nets."
+    },
+    {
+        "place": "St. Jean d'Acre",
+        "interaction": "passed",
+        "description": "Passed by St. Jean d'Acre, briefly noting its walls and ruins."
+    },
+    {
+        "place": "Plain of Esdraelon",
+        "interaction": "passed",
+        "description": "Traversed the Plain of Esdraelon, noted for its historical battles."
+    },
+    {
+        "place": "Mount Carmel",
+        "interaction": "visited",
+        "description": "Climbed Mount Carmel on foot, visiting the Convent of Elijah."
+    },
+    {
+        "place": "Ahtlit",
+        "interaction": "passed",
+        "description": "Passed the ruins of Ahtlit, experiencing a challenging ride."
+    },
+    {
+        "place": "Tantura",
+        "interaction": "stayed",
+        "description": "Spent a night in Tantura, enduring uncomfortable conditions with animals and insects."
+    },
+    {
+        "place": "Cæsarea",
+        "interaction": "visited",
+        "description": "Visited Cæsarea, observing its ruins and recalling historical events."
+    },
+    {
+        "place": "Valley of Sharon",
+        "interaction": "passed",
+        "description": "Passed through the Valley of Sharon, admired its floral beauty."
+    },
+    {
+        "place": "Jaffa",
+        "interaction": "stayed",
+        "description": "Stayed in Jaffa, visiting historical sites and experiencing the town."
+    },
+    {
+        "place": "Ramleh",
+        "interaction": "visited",
+        "description": "Visited Ramleh, staying at a convent and exploring the area."
+    },
+    {
+        "place": "Lydda",
+        "interaction": "passed",
+        "description": "Passed by the site of the ancient city Lydda."
+    },
+    {
+        "place": "Jerusalem",
+        "interaction": "visited",
+        "description": "Arrived in Jerusalem, exploring its significant religious and historical sites."
+    }
+]

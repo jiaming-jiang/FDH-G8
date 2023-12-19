@@ -1,0 +1,22 @@
+[
+    {
+        "place": "Mount Olivet",
+        "interaction": "stayed",
+        "description": "Stayed at a summer residence on Mount Olivet, overlooking the Kedron, surrounded by hills abundant in grapes, pomegranates, almonds, apricots, and figs."
+    },
+    {
+        "place": "Village at the top of the mountain",
+        "interaction": "visited",
+        "description": "Visited the village for the reception of the Pacha and his Hareem, and engaged in exchanges with the local villagers."
+    },
+    {
+        "place": "Well near the village",
+        "interaction": "observed",
+        "description": "Observed village maidens at the well near the camping ground, reflecting on the traditional role of women in water collection."
+    },
+    {
+        "place": "Pathway from the city to Jordan",
+        "interaction": "visited",
+        "description": "Visited and reflected upon the historical significance of the pathway leading from the city to Jordan, by way of Bahurim."
+    }
+]
