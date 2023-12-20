@@ -1,7 +1,4 @@
-# FDH-G8
-GitHub repository for Group 8 in Foundations of Digital Humanities 2023.
-
-# Project README
+# Spataialising Sarah Barclay Johnson's Travelogue around Jerusalem (1858) - FDH 2023, G8
 
 ## Introduction
 
@@ -42,3 +39,7 @@ A detailed manual detection of locations in Chapter 3 was performed, resulting i
 ### Data Visualization and Platform Development
 
 The final phase involved mapping the author's route using GeoPandas and visualizing it with Plotly and Mapbox. A dedicated website was created to display the interactive maps, providing a user-friendly interface for exploring the project's findings.
+
+## Final disclaimer
+
+We did not upload the final dataset with the coordinates, as they are owned by the DHLAB @ EPFL.
